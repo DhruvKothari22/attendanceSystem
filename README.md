@@ -35,3 +35,6 @@ The software can be used to mark the attendance of the participants in any event
 2.**Accountability:** Since the problem we are dealing is of less attendence in government schools. The reason behind this is very less interest of teachers in teaching. With this system we can even monitor the teachers as well. So our system will automatically capture the time and name of person and strict action can be taken if someone is not coming on time on school.
 
 3.**Transparency:** Since it automatically marks attendence based upon the video feed, there is full transparency in terms of who is present or who is absent. Nobody can alter this result based upon their wish. There can be no adulteration with attendence of students and teachers and exact attendence will be recorded. This will lead to punctuality on the parts of teachers and students as they now know that their attendence is being taken by software.
+
+## Demo:
+![Alt text](Attendance_sample.png?raw=true "Attendance")
