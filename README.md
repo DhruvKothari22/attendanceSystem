@@ -1,40 +1,40 @@
-# Automatic Attendance System
+Type Or Paste Your Text Here To Convert Case# Automatic Attendance System
 ### Dependencies-
 
-    Python 2.7 or 3+
-    OS: linux, windows
-    Python libraries - OpenCV and dlib All the dependencies should be met before installing face_recognition module
+    Python 2.7 Or 3+
+    Os: Linux, Windows
+    Python Libraries - Opencv And Dlib All The Dependencies Should Be Met Before Installing Face_Recognition Module
     
 ### Installation:
-    pip install pandas
-    pip install numpy
-    pip install face_recognition
+    Pip Install Pandas
+    Pip Install Numpy
+    Pip Install Face_Recognition
 
-## attendanceSystem folder contains two python codes-
+## Attendancesystem Folder Contains Two Python Codes-
 
-    attendanceSystem.py - gui + face recognizer(open this to run software)
-    face_re.py - face identifier and recognizer
+    Attendancesystem.Py - Gui + Face Recognizer(Open This To Run Software)
+    Face_Re.Py - Face Identifier And Recognizer
 
-    It also contains 'Images' folder in which we keep the set of images of faces which we want to recognize. **Kindly change the path of your Images folder in the code of attendanceSystem.py
+    It Also Contains 'Images' Folder In Which We Keep The Set Of Images Of Faces Which We Want To Recognize. **Kindly Change The Path Of Your Images Folder In The Code Of Attendancesystem.Py
     
 
-Note: GPU acceleration (via nVidia’s CUDA library) is required for good performance with this model. You’ll also need to enable CUDA support when compliling dlib.
+Note: Gpu Acceleration (Via Nvidia’S Cuda Library) Is Required For Good Performance With This Model. You’Ll Also Need To Enable Cuda Support When Compliling Dlib.
 
 ## Project Title – Automated Attendence System
 
-This system automatically marks the attendence of students that are coming inside a room by recognizing their faces using camera and then storing the name of the person in the attendance list (if the person is already stored in the database, if not, it gives the output as unknown) 
+This System Automatically Marks The Attendence Of Students That Are Coming Inside A Room By Recognizing Their Faces Using Camera And Then Storing The Name Of The Person In The Attendance List (If The Person Is Already Stored In The Database, If Not, It Gives The Output As Unknown) 
 
 ## Applications:
 
-The software can be used to mark the attendance of the participants in any event. The concerned software is developed mainly for schools, colleges, etc. It is a viable option to the biometric system, currently in usage in most of the institutions. The system just requires the images of the concerned people. The software recognises the person(if the image matches with one of those stored in the database) and even records the time of entry. This data is stored in a file in .csv format, which can be accesed by the professor. Thus, transparency is ensured regarding the time of entry of the students. It can also be used in seminars or meetings, which involve top level authorities where security is one of the primary concerns. In the above mentioned case, the images of the attendees can be feeded into the system. As a result, an unknown person cannot enter and the chances of security breach are almost nil.
+The Software Can Be Used To Mark The Attendance Of The Participants In Any Event. The Concerned Software Is Developed Mainly For Schools, Colleges, Etc. It Is A Viable Option To The Biometric System, Currently In Usage In Most Of The Institutions. The System Just Requires The Images Of The Concerned People. The Software Recognises The Person(If The Image Matches With One Of Those Stored In The Database) And Even Records The Time Of Entry. This Data Is Stored In A File In .Csv Format, Which Can Be Accesed By The Professor. Thus, Transparency Is Ensured Regarding The Time Of Entry Of The Students. It Can Also Be Used In Seminars Or Meetings, Which Involve Top Level Authorities Where Security Is One Of The Primary Concerns. In The Above Mentioned Case, The Images Of The Attendees Can Be Feeded Into The System. As A Result, An Unknown Person Cannot Enter And The Chances Of Security Breach Are Almost Nil.
 
 ## Benefits:
 
-1.**Time Saving:** Generally taking the attendance of students is a time consuming process in the case of class involving a large number of students. This time can be reduced and more time can be devoted to teaching, if this system is used.
+1.**Time Saving:** Generally Taking The Attendance Of Students Is A Time Consuming Process In The Case Of Class Involving A Large Number Of Students. This Time Can Be Reduced And More Time Can Be Devoted To Teaching, If This System Is Used.
 
-2.**Accountability:** Since the problem we are dealing is of less attendence in government schools. The reason behind this is very less interest of teachers in teaching. With this system we can even monitor the teachers as well. So our system will automatically capture the time and name of person and strict action can be taken if someone is not coming on time on school.
+2.**Accountability:** Since The Problem We Are Dealing Is Of Less Attendence In Government Schools. The Reason Behind This Is Very Less Interest Of Teachers In Teaching. With This System We Can Even Monitor The Teachers As Well. So Our System Will Automatically Capture The Time And Name Of Person And Strict Action Can Be Taken If Someone Is Not Coming On Time On School.
 
-3.**Transparency:** Since it automatically marks attendence based upon the video feed, there is full transparency in terms of who is present or who is absent. Nobody can alter this result based upon their wish. There can be no adulteration with attendence of students and teachers and exact attendence will be recorded. This will lead to punctuality on the parts of teachers and students as they now know that their attendence is being taken by software.
+3.**Transparency:** Since It Automatically Marks Attendence Based Upon The Video Feed, There Is Full Transparency In Terms Of Who Is Present Or Who Is Absent. Nobody Can Alter This Result Based Upon Their Wish. There Can Be No Adulteration With Attendence Of Students And Teachers And Exact Attendence Will Be Recorded. This Will Lead To Punctuality On The Parts Of Teachers And Students As They Now Know That Their Attendence Is Being Taken By Software.
 
 ## Demo:
-![Alt text](Attendance_sample.png?raw=true "Attendance")
+![Alt Text](Attendance_Sample.Png?Raw=True "Attendance")
