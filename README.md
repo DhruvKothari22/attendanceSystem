@@ -37,4 +37,4 @@ The Software Can Be Used To Mark The Attendance Of The Participants In Any Event
 3.**Transparency:** Since It Automatically Marks Attendence Based Upon The Video Feed, There Is Full Transparency In Terms Of Who Is Present Or Who Is Absent. Nobody Can Alter This Result Based Upon Their Wish. There Can Be No Adulteration With Attendence Of Students And Teachers And Exact Attendence Will Be Recorded. This Will Lead To Punctuality On The Parts Of Teachers And Students As They Now Know That Their Attendence Is Being Taken By Software.
 
 ## Demo:
-![Alt Text](Attendance_Sample.Png?Raw=True "Attendance")
+![Alt Text](Attendance_sample.png?Raw=True "Attendance")
